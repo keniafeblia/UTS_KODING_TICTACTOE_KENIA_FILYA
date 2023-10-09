@@ -4,10 +4,7 @@
  */
 package com.mycompany.ttt;
 
-/**
- *
- * @author yasse
- */
+
 public class Tictac extends javax.swing.JFrame {
 
     /**
